@@ -28,7 +28,7 @@ simple-yolo-project/
 
 ### 1️⃣ Clone or Download the Repo
 ```bash
-git clone https://github.com/your-username/simple-yolo-project.git
+git clone https://github.com/PhaniMax/simple-yolo-project/tree/main
 cd simple-yolo-project
 ```
 
